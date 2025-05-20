@@ -1,0 +1,1 @@
+This is the data sets and R codes pertinent to the paper entitled "Leveraging Rank Information for Robust Regression Analysis: A Nomination Sampling Approach" co-authored by Neve Loewen and Mohammad Jafari Jozani. We have also included the Rc odes for the MSc thesis  posted herer https://mspace.lib.umanitoba.ca/items/d2784c35-bea0-47c7-9323-66887529755f
